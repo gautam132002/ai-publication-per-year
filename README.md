@@ -47,6 +47,12 @@ This repository includes the following program files:
 - `arxiv.py`: This script scrapes Arxiv for publications, collects the data, and plots graphs based on the scraped data.
 - `scholar.py`: This script scrapes Google Scholar for publications, collects the data, and plots graphs based on the scraped data.
 - `plot.py`: This script is a PyQt5 application that allows users to select a CSV file and plots the data contained in the file.
+  1. select file -> open CSV
+     ![img](https://github.com/gautam132002/ai-publication-per-year/assets/68372911/ec161069-b00d-4b3e-a8e2-5c64d54efb34)
+  2. select any csv (for ex open `./extracted_by_gautam/publication_counts_arxiv.csv`)
+     output :
+     ![img](https://github.com/gautam132002/ai-publication-per-year/assets/68372911/d83c0204-69f3-445f-abcf-71395823ca82)
+
 
 ## Scraped Data
 
@@ -61,9 +67,7 @@ You can directly use the `plot.py` script on these CSV files to visualize the da
 
 This scraper is designed to retrieve the number of publications for specific topics from Arxiv and Google Scholar. It utilizes web scraping techniques to extract the required data. However, please note that web scraping may be subject to the terms and conditions of the websites being scraped. Ensure that you comply with the policies and guidelines of Arxiv and Google Scholar or any other platforms you scrape.
 
-The scraper collects the publication counts for the topics 'Deep Learning', 'Reinforcement Learning', 'Transfer Learning', and 'Causality' on a yearly basis. It then provides a convenient way to plot the data using the `plot.py` script. The script uses the PyQt5 library to create a graphical user interface (GUI) where you can select the CSV file containing the data and visualize it as a line graph.
-
-Please refer to the provided documentation or contact the repository owner for further information or assistance.
+Please refer to the provided documentation `./doc.pdf` or contact the repository owner for further information or assistance.
 
 ## Contribution
 
