@@ -1,6 +1,6 @@
 MIT License
 
-2023 ,gautam negi
+Copyright (c) 2023 GAUTAM NEGI
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Publication Scraper"), to deal
