@@ -20,6 +20,26 @@ To use this scraper, follow the steps below:
 
 3. For more detailed information and instructions, please refer to the provided documentation in the `doc.pdf` file.
 
+4. To run the scripts, you can use the following commands:
+
+   - To scrape Arxiv and plot the data:
+
+     ```
+     python arxiv.py
+     ```
+
+   - To scrape Google Scholar and plot the data:
+
+     ```
+     python scholar.py
+     ```
+
+   - To launch the CSV plotter GUI:
+
+     ```
+     python plot.py
+     ```
+
 ## Program Files
 
 This repository includes the following program files:
