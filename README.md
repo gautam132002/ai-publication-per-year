@@ -47,10 +47,13 @@ This repository includes the following program files:
 - `arxiv.py`: This script scrapes Arxiv for publications, collects the data, and plots graphs based on the scraped data.
 - `scholar.py`: This script scrapes Google Scholar for publications, collects the data, and plots graphs based on the scraped data.
 - `plot.py`: This script is a PyQt5 application that allows users to select a CSV file and plots the data contained in the file.
-  1. select file -> open CSV
-     ![img](https://github.com/gautam132002/ai-publication-per-year/assets/68372911/ec161069-b00d-4b3e-a8e2-5c64d54efb34)
-  2. select any csv (for ex open `./extracted_by_gautam/publication_counts_arxiv.csv`)
-     output :
+  
+  1. select file -> open CSV.
+     ![imageedit_2_2814534586](https://github.com/gautam132002/ai-publication-per-year/assets/68372911/f7ac682f-fb6d-4fc3-920d-80d607e1528d)
+
+  3. select any csv (for ex open `./extracted_by_gautam/publication_counts_arxiv.csv`).
+  4. output:
+  
      ![img](https://github.com/gautam132002/ai-publication-per-year/assets/68372911/d83c0204-69f3-445f-abcf-71395823ca82)
 
 
