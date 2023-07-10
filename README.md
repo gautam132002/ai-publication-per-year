@@ -78,4 +78,4 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and use the code according to the terms of this license.
+This project is licensed under the [MIT License](LICENSE.txt). Feel free to modify and use the code according to the terms of this license.
